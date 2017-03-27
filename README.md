@@ -7,6 +7,7 @@ added sample database "laravel.sql" with this, import the same using mysql workb
  edit .env file as suitable to your System Settings
  
  */DataBase Settings*/
+ 
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
    DB_PORT=3306
@@ -16,6 +17,7 @@ added sample database "laravel.sql" with this, import the same using mysql workb
    
    
  */Mail Config Settings in .env file*/
+ 
     MAIL_DRIVER=smtp
     MAIL_HOST=smtp.gmail.com
     MAIL_PORT=25
