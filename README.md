@@ -8,12 +8,12 @@ added sample database "laravel.sql" with this, import the same using mysql workb
  
  */DataBase Settings*/
  
-   DB_CONNECTION=mysql
-   DB_HOST=127.0.0.1
-   DB_PORT=3306
-   DB_DATABASE=laravel
-   DB_USERNAME=root
-   DB_PASSWORD=
+ DB_CONNECTION=mysql
+ DB_HOST=127.0.0.1
+ DB_PORT=3306
+ DB_DATABASE=laravel
+ DB_USERNAME=root
+ DB_PASSWORD=
    
    
  */Mail Config Settings in .env file*/
