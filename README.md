@@ -13,6 +13,8 @@ added sample database "laravel.sql" with this, import the same using mysql workb
    DB_DATABASE=laravel
    DB_USERNAME=root
    DB_PASSWORD=
+   
+   
  */Mail Config Settings in .env file*/
     MAIL_DRIVER=smtp
     MAIL_HOST=smtp.gmail.com
