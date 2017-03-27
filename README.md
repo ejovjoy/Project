@@ -28,3 +28,6 @@ DB_PASSWORD=
   */Mail Config Settings in mail.php  file*/
   
   'from' => ['address' => 'mailcode07070@gmail.com', 'name' => 'Test'],
+
+
+http://localhost:8000/login - Login page
